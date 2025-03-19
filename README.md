@@ -1,6 +1,6 @@
 This is the codebase for the AISTATS'25 paper entitled
 
-"Domain Adaptation and Entanglement: An Optimal Transport Perspective"
+[Domain Adaptation and Entanglement: An Optimal Transport Perspective](https://openreview.net/forum?id=ZDyi1BeTu7)
 
 The files included in the codebase and how to generate the experiment results are explained below:
 
