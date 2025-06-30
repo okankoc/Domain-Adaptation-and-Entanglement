@@ -2,6 +2,8 @@ This is the codebase for the AISTATS'25 paper entitled
 
 [Domain Adaptation and Entanglement: An Optimal Transport Perspective](https://openreview.net/forum?id=ZDyi1BeTu7)
 
+# Contents
+
 The files included in the codebase and how to generate the experiment results are explained below:
 
 ./run_uda.py
@@ -28,3 +30,18 @@ Contains a bunch of utility functions used throughout the code.
 models/
 
 Contains various deep neural networks implemented in PyTorch.
+
+# Citing the paper
+
+The *bibtex* of the paper is as follows
+
+```
+@inproceedings{
+koc2025domain,
+title={Domain Adaptation and Entanglement: an Optimal Transport Perspective},
+author={Okan Koc and Alexander Soen and Chao-Kai Chiang and Masashi Sugiyama},
+booktitle={The 28th International Conference on Artificial Intelligence and Statistics},
+year={2025},
+url={https://openreview.net/forum?id=ZDyi1BeTu7}
+}
+```
